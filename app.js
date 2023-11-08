@@ -5,3 +5,5 @@ const arr = [1, 2, 3];
 const arrSliced = arr.slice(0, 1);
 console.log(arr); // [1, 2, 3] 원본 배열을 손상시키지 않고 추출한다.
 console.log(arrSliced); // [1] 요소가 아닌 배열 객체로 반환한다.
+
+//! 헷갈렸던 점: 인덱스 0 ~ 인덱스 1을 반환하는 것으로 알고 있었는데, 0 이상 1 미만을 배열로 추출해서 반환하는 거였다.

@@ -12,3 +12,6 @@ const arr = [];
   // A1-1-2. 문자열 추가
   arr.push("문자열"); 
   console.log(arr); // [0, '문자열']
+
+  // A1-2. arr.length: 배열의 길이를 반환하는 메서드
+  console.log(arr.length); // 2

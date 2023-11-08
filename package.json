@@ -1,0 +1,11 @@
+{
+  "name": "array-method",
+  "version": "1.0.0",
+  "description": "배열 예제 학습을 위한 repo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
